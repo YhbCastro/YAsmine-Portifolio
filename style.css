@@ -1,3 +1,11 @@
+/*
+Choose a lighter color for the bacground
+Make a hr diferent than the usual, think of something fancy
+Photo round will look better
+More professional font for the body text
+*/
+
+
 img {
   width: 500px;
   border-radius: 50%;
@@ -28,7 +36,7 @@ ol {
   color: FFD8BE;
   list-style-type: none;
   text-align: center;
-  margin-left: -30px;
+  margin-left: -30px; /*To make more centralized*/
 }
 
 ul {
@@ -36,9 +44,9 @@ ul {
   list-style-type: none;
   text-align: center;
   font-size: 18px;
-  margin-left: -30px;
+  margin-left: -30px; /*To make more centralized*/
 }
-
+ /*Will need 2 description for the hr*/
 hr {
   overflow: visible; 
   height: 30px;
@@ -80,7 +88,7 @@ h3 {
   font-size: 25px;
 }
 
-h4 {
+h4 {   /*Smaller font sizes the all the rest*/
   font-family: 'Times New Roman', Times, serif;
   color: rgba(46, 10, 65, 0.877);
   text-align: center;
